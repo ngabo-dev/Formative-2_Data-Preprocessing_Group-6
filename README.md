@@ -167,12 +167,12 @@ python demo_system.py
 ### Demo Features
 
 1. **Authorized User Flow**:
-   - Face verification ✅
-   - Voice verification ✅
+   - Face verification 
+   - Voice verification 
    - Product recommendation display
 
 2. **Unauthorized Access Simulation**:
-   - Face verification ❌
+   - Face verification 
    - Access denied with security message
 
 3. **Interactive CLI**:
@@ -184,13 +184,13 @@ python demo_system.py
 
 ```
 🔍 Starting authentication for user: KING
-Face verification: ✅ Passed
-Voice verification: ✅ Passed
+Face verification: Passed
+Voice verification: Passed
 
-✅ Identity verified successfully!
-🎯 Recommended product for KING: Electronics
+Identity verified successfully!
+ Recommended product for KING: Electronics
 
-🎉 Demo completed successfully.
+ Demo completed successfully.
 ```
 
 ## Team Contributions
